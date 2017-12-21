@@ -17,4 +17,4 @@ static SeedSpec6 pnSeed6_test[] = {
 #endif // BITCOIN_CHAINPARAMSSEEDS_H
 
 
-///this is not deployed
+///this is not deployed (yet)
