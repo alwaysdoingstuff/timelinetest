@@ -85,7 +85,7 @@ public:
         consensus.nPowTargetSpacing = 120;
         consensus.fPowAllowMinDifficultyBlocks = false;
         consensus.fPowNoRetargeting = false;
-        consensus.nRuleChangeActivationThreshold = 0 // address this later
+        consensus.nRuleChangeActivationThreshold = 0; // address this later
         consensus.nMinerConfirmationWindow = 8 * 60; // nPowTargetTimespan / nPowTargetSpacing
         //consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].bit = 28;
         //consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].nStartTime = 1390747675; // Genesis Day
