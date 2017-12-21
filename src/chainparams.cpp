@@ -75,37 +75,37 @@ public:
     CMainParams() {
         strNetworkID = "main";
         consensus.nSubsidyHalvingInterval = 950000;
-        consensus.BIP16Height = 0; // 0
-        consensus.BIP34Height = 0; // 0
-        consensus.BIP34Hash = uint256S("0x0"); //0
-        consensus.BIP65Height = 0; // 0
-        consensus.BIP66Height = 0; // 0
+        //consensus.BIP16Height = 0; // 0
+        //consensus.BIP34Height = 0; // 0
+        //consensus.BIP34Hash = uint256S("0x0"); //0
+        //consensus.BIP65Height = 0; // 0
+        //consensus.BIP66Height = 0; // 0
         consensus.powLimit = uint256S("00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff");
         consensus.nPowTargetTimespan = 7 * 24 * 60 * 60; // ONE Week
         consensus.nPowTargetSpacing = 120;
         consensus.fPowAllowMinDifficultyBlocks = false;
         consensus.fPowNoRetargeting = false;
-        consensus.nRuleChangeActivationThreshold = 1916; // 95% of 2016
+        consensus.nRuleChangeActivationThreshold = 0 // address this later
         consensus.nMinerConfirmationWindow = 8 * 60; // nPowTargetTimespan / nPowTargetSpacing
-        consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].bit = 28;
-        consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].nStartTime = 1390747675; // Genesis Day
-        consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].nTimeout = 1390747675; // Genesis Day
+        //consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].bit = 28;
+        //consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].nStartTime = 1390747675; // Genesis Day
+        //consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].nTimeout = 1390747675; // Genesis Day
 
         // Deployment of BIP68, BIP112, and BIP113.
-        consensus.vDeployments[Consensus::DEPLOYMENT_CSV].bit = 0;
-        consensus.vDeployments[Consensus::DEPLOYMENT_CSV].nStartTime = 0; // Not Deployed
-        consensus.vDeployments[Consensus::DEPLOYMENT_CSV].nTimeout = 0; // Not Deployed
+        //consensus.vDeployments[Consensus::DEPLOYMENT_CSV].bit = 0;
+        //consensus.vDeployments[Consensus::DEPLOYMENT_CSV].nStartTime = 0; // Not Deployed
+        //consensus.vDeployments[Consensus::DEPLOYMENT_CSV].nTimeout = 0; // Not Deployed
 
         // Deployment of SegWit (BIP141, BIP143, and BIP147)
-        consensus.vDeployments[Consensus::DEPLOYMENT_SEGWIT].bit = 0;
-        consensus.vDeployments[Consensus::DEPLOYMENT_SEGWIT].nStartTime = 0; // Not Deployed
-        consensus.vDeployments[Consensus::DEPLOYMENT_SEGWIT].nTimeout = 0; // Not Deployed
+        //consensus.vDeployments[Consensus::DEPLOYMENT_SEGWIT].bit = 0;
+        //consensus.vDeployments[Consensus::DEPLOYMENT_SEGWIT].nStartTime = 0; // Not Deployed
+        //consensus.vDeployments[Consensus::DEPLOYMENT_SEGWIT].nTimeout = 0; // Not Deployed
 
         // The best chain should have at least this much work.
-        consensus.nMinimumChainWork = uint256S("0x0");     //not cooked - - - SOON
+        //consensus.nMinimumChainWork = uint256S("0x0");     //not cooked - - - SOON
 
         // By default assume that the signatures in ancestors of this block are valid.
-        consensus.defaultAssumeValid = uint256S("0x0"); //Not Cooked
+        //consensus.defaultAssumeValid = uint256S("0x0"); //Not Cooked
 
         /**
          * The message start string is designed to be unlikely to occur in normal data.
