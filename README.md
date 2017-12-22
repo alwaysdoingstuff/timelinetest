@@ -18,7 +18,7 @@ All of the below assumes time-travelling backwards in the same universe or hoppi
 
 Anyone who ever invents time-travelling needs an anchor from which to gauge changes made to the timeline, among other things I'll outline below.
 
-TIMELINE serves as a perfect tool for time-travellers. In case you're not familiar, every 10 minutes, TIMELINE creates a new block with part of the output of a previous block, plus a very special, very hard to compute number. In effect, this creates a chain (where the word blockchain records comes from) of very improbable events (finding a very special number).
+TIMELINE serves as a perfect tool for time-travellers. In case you're not familiar, every 1 minute, TIMELINE creates a new block with part of the output of a previous block, plus a very special, very hard to compute number. In effect, this creates a chain (where the word blockchain records comes from) of very improbable events (finding a very special number).
 
 If you were to time-travel effectively, one of the first things you'd need is the ability to measure and track your changes. You don't want to go back, kill Hitler, and then come back to a dystopia worse than you had before.
 
