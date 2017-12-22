@@ -3,7 +3,7 @@ Timeline Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/timeline/timeline.svg?branch=master)](https://travis-ci.org/timeline/timeline)
 
-https://timelinecore.org
+https://timelinehub.org
 
 What is Timeline?
 ----------------
