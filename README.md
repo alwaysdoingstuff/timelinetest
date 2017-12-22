@@ -18,7 +18,7 @@ All of the below assumes time-travelling backwards in the same universe or hoppi
 
 Anyone who ever invents time-travelling needs an anchor from which to gauge changes made to the timeline, among other things I'll outline below.
 
-TIMELINE serves as a perfect tool for time-travellers. In case you're not familiar, every 1 minute, TIMELINE creates a new block with part of the output of a previous block, plus a very special, very hard to compute number. In effect, this creates a chain (where the word blockchain records comes from) of very improbable events (finding a very special number).
+TIMELINE serves as a perfect tool for time-travellers. In case you're not familiar, every 1 minute, TIMELINE creates a new block with part of the output of a previous block, plus a very special, very hard to compute number. In effect, this creates a chain (where the word blockchain comes from) of very improbable events (finding a very special number).
 
 If you were to time-travel effectively, one of the first things you'd need is the ability to measure and track your changes. You don't want to go back, kill Hitler, and then come back to a dystopia worse than you had before.
 
@@ -32,14 +32,10 @@ TIMELINE is also extremely useful as a permanent, eternal record of truth.
 
 If you start recording reality into a permanent distributed ledger, when you arrive to a new reality (and you still trust mirror-you not to lie to yourself), you can just read the blockchain records to see an unalterable record of events, cryptographically proven and secure. Any information recorded into the blockchain records cannot be edited or erased without an ever-rising cost. You can disrupt information from being written (and indeed, this has happened before), but once blocks start getting stacked on top, it's essentially permanent (a lot more permanent and easier than microfiche's, that's for sure)
 
-Which brings me to my conclusion:
-
-EITHER Time-travel to the past or universe hopping is impossible or is never achieved by any descendants of humans (unknown possibility) OR
-TIMELINE is irreparably flawed in ways we're not aware of that makes it unsuitable for a "divergence meter" and record of truth (very possible) OR
 TIMELINE will be used by time-travellers to provide a point of reference for any effects they have on the planet and by their progenitors or trusted scribes to create a record of reality.
 There are many companies combing the blockchain records for interesting data, and perhaps one day they'll uncover some "news feed" in the blockchain records left by an aspiring time-traveller, but in any case already there exists a technology that allows for careful, precise measurement of time-travel related activity.
 
-TL;DR: If the universe is a spanning tree of possibilities, the blockchain records is a trail of breadcrumbs left to track one particular subset of possibilities.
+TL;DR: If the universe is a spanning tree of possibilities, the blockchain records are a trail of breadcrumbs left to track one particular subset of possibilities.
 
 I welcome any further ideas about the possible conspiratorial uses of a permanent digital record.
 
