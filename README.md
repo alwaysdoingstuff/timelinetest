@@ -18,28 +18,28 @@ All of the below assumes time-travelling backwards in the same universe or hoppi
 
 Anyone who ever invents time-travelling needs an anchor from which to gauge changes made to the timeline, among other things I'll outline below.
 
-Bitcoin serves as a perfect tool for time-travellers. In case you're not familiar, every 10 minutes, Bitcoin creates a new block with part of the output of a previous block, plus a very special, very hard to compute number. In effect, this creates a chain (where the word blockchain comes from) of very improbable events (finding a very special number).
+TIMELINE serves as a perfect tool for time-travellers. In case you're not familiar, every 10 minutes, TIMELINE creates a new block with part of the output of a previous block, plus a very special, very hard to compute number. In effect, this creates a chain (where the word blockchain records comes from) of very improbable events (finding a very special number).
 
 If you were to time-travel effectively, one of the first things you'd need is the ability to measure and track your changes. You don't want to go back, kill Hitler, and then come back to a dystopia worse than you had before.
 
-What TIMELINE does is make a series of permanent, distributed, unalterable points of low entropy. You can, in essence, track your timeline against a proposed timeline you're travelling to by where the blockchain diverges. If they match, the universe must be a match. If they don't, walk backwards through the blockchain to find the point of divergence, and there's where the change has affected the universe.
+What TIMELINE does is make a series of permanent, distributed, unalterable points of low entropy. You can, in essence, track your timeline against a proposed timeline you're travelling to by where the blockchain records diverges. If they match, the universe must be a match. If they don't, walk backwards through the blockchain records to find the point of divergence, and there's where the change has affected the universe.
 
-Everything in the universe affects everything else, so any change will show up in the blockchain, but not necessarily immediately. Imagine stopping someone on the street to ask them the time. That person then goes on to do what they were going to do anyway, but they cause a chain reaction of change starting from the minute and very quickly ballooning into massive changes. Eventually, this will affect TIMELINE mining by affecting the PRNGs inside of one or more Bitcoin miners (a miner is plugged in sooner, rather than later; a user logs in at a different time, timing from electrical circuits is affected, any number of things can change), causing them to either "miss" the winning hash, or find a hash where they previously wouldn't have.
+Everything in the universe affects everything else, so any change will show up in the blockchain records, but not necessarily immediately. Imagine stopping someone on the street to ask them the time. That person then goes on to do what they were going to do anyway, but they cause a chain reaction of change starting from the minute and very quickly ballooning into massive changes. Eventually, this will affect TIMELINE mining by affecting the PRNGs inside of one or more TIMELINE miners (a miner is plugged in sooner, rather than later; a user logs in at a different time, timing from electrical circuits is affected, any number of things can change), causing them to either "miss" the winning hash, or find a hash where they previously wouldn't have.
 
 Comically, this is not so far off from the plot of Steins;Gate, which leaned heavily on the story of John Titor, a time traveller who posted for some months on an internet forum warning us that CERN would develop time-travel technology and create a dystopia. In the anime, Rintaro Okabe (the main character) receives a "divergence meter" from another time-traveller that allows him to track his changes to the timeline (either further or closer to the original point of divergence and the original timeline)
 
-Bitcoin is also extremely useful as a permanent, eternal record of truth.
+TIMELINE is also extremely useful as a permanent, eternal record of truth.
 
-If you start recording reality into a permanent distributed ledger, when you arrive to a new reality (and you still trust mirror-you not to lie to yourself), you can just read the blockchain to see an unalterable record of events, cryptographically proven and secure. Any information recorded into the blockchain cannot be edited or erased without an ever-rising cost. You can disrupt information from being written (and indeed, this has happened before), but once blocks start getting stacked on top, it's essentially permanent (a lot more permanent and easier than microfiche's, that's for sure)
+If you start recording reality into a permanent distributed ledger, when you arrive to a new reality (and you still trust mirror-you not to lie to yourself), you can just read the blockchain records to see an unalterable record of events, cryptographically proven and secure. Any information recorded into the blockchain records cannot be edited or erased without an ever-rising cost. You can disrupt information from being written (and indeed, this has happened before), but once blocks start getting stacked on top, it's essentially permanent (a lot more permanent and easier than microfiche's, that's for sure)
 
 Which brings me to my conclusion:
 
 EITHER Time-travel to the past or universe hopping is impossible or is never achieved by any descendants of humans (unknown possibility) OR
-Bitcoin is irreparably flawed in ways we're not aware of that makes it unsuitable for a "divergence meter" and record of truth (very possible) OR
-Bitcoin will be used by time-travellers to provide a point of reference for any effects they have on the planet and by their progenitors or trusted scribes to create a record of reality.
-There are many companies combing the blockchain for interesting data, and perhaps one day they'll uncover some "news feed" in the blockchain left by an aspiring time-traveller, but in any case already there exists a technology that allows for careful, precise measurement of time-travel related activity.
+TIMELINE is irreparably flawed in ways we're not aware of that makes it unsuitable for a "divergence meter" and record of truth (very possible) OR
+TIMELINE will be used by time-travellers to provide a point of reference for any effects they have on the planet and by their progenitors or trusted scribes to create a record of reality.
+There are many companies combing the blockchain records for interesting data, and perhaps one day they'll uncover some "news feed" in the blockchain records left by an aspiring time-traveller, but in any case already there exists a technology that allows for careful, precise measurement of time-travel related activity.
 
-TL;DR: If the universe is a spanning tree of possibilities, the blockchain is a trail of breadcrumbs left to track one particular subset of possibilities.
+TL;DR: If the universe is a spanning tree of possibilities, the blockchain records is a trail of breadcrumbs left to track one particular subset of possibilities.
 
 I welcome any further ideas about the possible conspiratorial uses of a permanent digital record.
 
