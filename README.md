@@ -5,6 +5,12 @@ Timeline Core integration/staging tree
 
 https://timelinehub.org
 
+https://www.reddit.com/r/DimensionalJumping/
+
+https://www.reddit.com/r/Glitch_in_the_Matrix/
+
+https://www.reddit.com/r/MandelaEffect/
+
 What is Timeline?
 ----------------
 
@@ -14,13 +20,17 @@ with no central authority: managing transactions and issuing tokens are carried
 out collectively by the network. Timeline Core is the name of open source
 software which enables the use of this technology.
 
+The following is a reddit post that explains the usefullness of Timeline. The developers of Timeline did not write the post below but it explains everything in such a way that is most understandable, and as clear as possible. The Timeline developers did however take the liberty of exchanging the word "Bitcoin" for "Timeline" for context, as the post was initially about Bitcoin. You may ask why a person would use Timeline over Bitcoin for this purpose in the first since the technology used to accomplish the task already exists in Bitcoin, for us the solution is simple - it is more cost effective. Timeline is not intended to be a currency, but a token which enables you to read/write data to the blockchain for your own records. 
+
+______________________________________________________________________________________________________________
+
 All of the below assumes time-travelling backwards in the same universe or hopping across to alternate universes that exist in the same state as our past is possible.
 
 Anyone who ever invents time-travelling needs an anchor from which to gauge changes made to the timeline, among other things I'll outline below.
 
 TIMELINE serves as a perfect tool for time-travellers. In case you're not familiar, every 1 minute, TIMELINE creates a new block with part of the output of a previous block, plus a very special, very hard to compute number. In effect, this creates a chain (where the word blockchain comes from) of very improbable events (finding a very special number).
 
-If you were to time-travel effectively, one of the first things you'd need is the ability to measure and track your changes. You don't want to go back, kill Hitler, and then come back to a dystopia worse than you had before.
+If you were to time-travel effectively, one of the first things you'd need is the ability to measure and track your changes. You don't want to go back, "kill Hitler", and then come back to a dystopia worse than you had before.
 
 What TIMELINE does is make a series of permanent, distributed, unalterable points of low entropy. You can, in essence, track your timeline against a proposed timeline you're travelling to by where the blockchain records diverges. If they match, the universe must be a match. If they don't, walk backwards through the blockchain records to find the point of divergence, and there's where the change has affected the universe.
 
@@ -38,6 +48,8 @@ There are many companies combing the blockchain records for interesting data, an
 TL;DR: If the universe is a spanning tree of possibilities, the blockchain records are a trail of breadcrumbs left to track one particular subset of possibilities.
 
 I welcome any further ideas about the possible conspiratorial uses of a permanent digital record.
+
+__________________________________________________________________________________________________________________
 
 
 License
